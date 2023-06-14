@@ -1,4 +1,4 @@
-### Olá! eu sou Lucas Henrique👋 sou estudande de programação desde 2020 e estou buscando melhorar e aprimorar minhas habilidades a cada dia.
+### Hello!👋 I'm Lucas Henrique, I've been a programming student since 2020 and I'm looking to improve and hone my skills every day.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfr0/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b483b2208/)
 
