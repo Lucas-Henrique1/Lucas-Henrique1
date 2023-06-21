@@ -1,4 +1,4 @@
-### Hello!👋 I'm Lucas Henrique, I've been a programming student since 2020 and I'm looking to improve and hone my skills every day.
+### Hello!👋 I'm Lucas Henrique, I've been a programming student since 2020 and I'm looking to improve and hone my skills every day, I look forward to taking on challenging challenges, diving into ambitious projects, and being part of this vibrant community of creative minds and passionate about technology.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfr0/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b483b2208/)
 
