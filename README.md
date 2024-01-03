@@ -1,10 +1,10 @@
-### Hello!👋 I'm Lucas Henrique, I've been a programming student since 2020 and I'm looking to improve and hone my skills every day, I look forward to taking on challenging challenges, diving into ambitious projects, and being part of this vibrant community of creative minds and passionate about technology.
+### 👋Olá! Sou o Lucas Henrique, um entusiasta dedicado em início de carreira na área de desenvolvimento. Estou empenhado em aprender e crescer neste universo fascinante da programação. Tenho experiência inicial em desenvolvimento web, principalmente com HTML, CSS e JavaScript, e estou ansioso para expandir meu conhecimento e contribuir para projetos interessantes aqui no GitHub. Busco oportunidades para adquirir experiência prática e colaborar com a comunidade de desenvolvedores. 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfr0/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b483b2208/)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Henrique1&show_icons=true&theme=radical)
 
-### Technologies I'm studying
+### Conhecimentos
 
 <div  style="display: inline_black"></br>
 <img  aling= center alt="HMTL5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
