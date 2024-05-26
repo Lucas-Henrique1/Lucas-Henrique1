@@ -1,4 +1,4 @@
-### 👋Olá! Sou o Lucas Henrique, um entusiasta dedicado em início de carreira na área de desenvolvimento. Estou empenhado em aprender e crescer neste universo fascinante da programação. Tenho experiência inicial em desenvolvimento web, principalmente com HTML, CSS e JavaScript, e estou ansioso para expandir meu conhecimento e contribuir para projetos interessantes aqui no GitHub. Busco oportunidades para adquirir experiência prática e colaborar com a comunidade de desenvolvedores. 
+### 👋 Olá! Sou Lucas Henrique, um entusiasta em início de carreira no desenvolvimento. Tenho experiência inicial com HTML, CSS e JavaScript. Estou ansioso para expandir meu conhecimento e contribuir para projetos no GitHub, buscando oportunidades para adquirir experiência prática e colaborar com a comunidade de desenvolvedores.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfr0/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b483b2208/)
 
