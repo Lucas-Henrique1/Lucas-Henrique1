@@ -13,4 +13,5 @@
 <img  aling=center  alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 <br/>
- Email: lucasrecife20@gmail.com 
+ Email: lucasrecife20@gmail.com
+ Linkedin: https://www.linkedin.com/in/lucas-henrique-b483b2208
