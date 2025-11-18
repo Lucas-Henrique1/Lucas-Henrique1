@@ -14,4 +14,5 @@
 </div>
 <br/>
  Email: lucasrecife20@gmail.com
+ <br>
  Linkedin: https://www.linkedin.com/in/lucas-henrique-b483b2208
